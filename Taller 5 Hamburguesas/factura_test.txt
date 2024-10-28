@@ -1,0 +1,9 @@
+Cliente: Juan
+Dirección: Calle 10
+----------------
+gaseosa
+            10000
+----------------
+Precio Neto:  10000
+IVA:          1900
+Precio Total: 11900
